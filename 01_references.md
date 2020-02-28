@@ -2,12 +2,11 @@
 
 ## Performance
 Raspberry Pi performance:
- . Darknet(YOLO)
- . Tensorflow Google Object Detection (API)
- . Microsoft Embedded Learning Library (ELL)
- . Darknet-NNPACK
-
-- [SSD or YOLO on raspberry pi](https://stackoverflow.com/questions/42354824/ssd-or-yolo-on-raspberry-pi)
+ - Darknet(YOLO)
+ - Tensorflow Google Object Detection (API)
+ - Microsoft Embedded Learning Library (ELL)
+ - Darknet-NNPACK
+ - [SSD or YOLO on raspberry pi](https://stackoverflow.com/questions/42354824/ssd-or-yolo-on-raspberry-pi)
 
 ## Py Image Search
 
@@ -35,14 +34,14 @@ References from [Raspberry forums](https://www.raspberrypi.org/forums/viewtopic.
 [Deep Learning with Raspberry Pi -- Real-time object detection with YOLO v3 Tiny! [updated on Dec 19 2018, detailed instruction included]](http://funofdiy.blogspot.com/2018/08/deep-learning-with-raspberry-pi-real.html)
 
 
-# medium.com
+## medium.com
 The project requires tensorflow, keras, numpy and matplotlib to be installed on your raspberry pi.
 
 - [Offline Object Detection and Tracking on a Raspberry Pi](https://medium.com/ml-everything/offline-object-detection-and-tracking-on-a-raspberry-pi-fddb3bde130)
 
 # Create your own clasifier
-
-- [Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.](https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html)
+Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.
+- [Tutorial Cascade Classifier](https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html)
 
 
 ## Bottle Clasiffier
