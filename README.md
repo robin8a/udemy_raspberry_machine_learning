@@ -14,7 +14,7 @@ Examples images tranformation
 - Segmentation
 
 A set of scripts for image processing using raspberry pi:
-- Detection Human, faces, eyes, nouse 
+- Detection Human, faces, eyes, nose 
 - Detection Cars
 - Pedestrian
 - Object based on an image
